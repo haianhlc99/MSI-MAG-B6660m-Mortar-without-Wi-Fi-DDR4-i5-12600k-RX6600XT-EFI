@@ -46,7 +46,7 @@ Wake from Keyboard Optional:
 - Setting - Advanced - Resume By USB Device - Enable
 
 Work:
-- QE/CI of Gigabyte RX 6900 XT (XTXH)
+- QE/CI of Gigabyte RX 6600 XT
 - Restart, Sleep and Shutdown
 - CPU Power Management
 - Ethernet
