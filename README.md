@@ -43,8 +43,9 @@ Work:
 - HDMI/DP
 - HDMI/DP Audio
 - All USB Ports
-- Etc
 - RX 6600 XT on macOS: Zero RPM with SoftPowerPlayTable 
+- Etc
+
 
 ## Credits
 
