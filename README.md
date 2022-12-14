@@ -64,14 +64,6 @@ Work:
 
 ## Links
 
-- [OC Auxiliary Tools](https://github.com/ic005k/QtOpenCoreConfig)
-- [ProperTree](https://github.com/corpnewt/ProperTree)
 - [Hackintool](https://github.com/headkaze/Hackintool)
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-- https://blog.daliansky.net/
-- https://apple.sqlsec.com/
-- https://space.bilibili.com/16323318/channel/collectiondetail?sid=296068
-- https://bbs.pcbeta.com/forum.php?gid=86
-- https://www.tonymacx86.com/
-- https://github.com/daliansky/OC-little
