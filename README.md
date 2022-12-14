@@ -32,7 +32,7 @@ You need to re-select SMBios in Opencore Configurations (MacPro 7,1) to generate
 - tpm off - advanced - security - trusted computing
 - Setting/advanced/ Intergrated Graphics configuration/Graphic adapter to PEG, IGD Multi monitor-Disable (This makes sleep does not work)
 
-## 12th generation EFI finishing
+## Credits
 
 https://github.com/yzchan/MSI-MAG-B660M-MORTAR-DDR4-12600K-EFI
 
