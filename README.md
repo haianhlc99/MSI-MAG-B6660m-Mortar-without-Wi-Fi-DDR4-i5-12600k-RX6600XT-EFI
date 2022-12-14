@@ -24,15 +24,26 @@ You need to re-select SMBios in Opencore Configurations (MacPro 7,1) to generate
 
 This guide is applicable to B660M mortar motherboard, the motherboard BIOS needs the following settings, please update the bios to the latest version 7D42v17 and above
 
-- Oc->xmp-enable
-- Oc-> Cpu features ->  turn off VT-d
-- setting-boot- turn off msi fast boot, fastboot
-- Setting-security-secureboot- turn off
-- BETA - D.T.M- enable
-- BETA - SR-IOV Support- enable
-- SETTING - Advanced/Pcie/pci dub system setting - Re-Size BAR Support- enable
-- tpm off - advanced - security - trusted computing
-- Setting/advanced/ Intergrated Graphics configuration/Graphic adapter to PEG, IGD Multi monitor-Disable (This makes sleep does not work)
+- Save & Exit → Restore Defaults : Yes
+- Settings - Boot - Turn off Msi Fast Boot, Fastboot
+- Settings - Security - Secureboot - Disabled
+- Settings - Security - Trusted Computing - Security Device Support - Disabled
+- Settings - Security - Trusted Computing - TPM Device Selection - PTT
+- Setting - Advanced - Intergrated Graphics Configuration - Graphic adapter - PEG, IGD Multi Monitor - Disabled (This makes sleep does not work)
+- Settings - Advanced - Integrated Peripherals - Network Stack - Disabled
+- Settings - Advanced - Integrated Peripherals  - Intel Serial IO - Disabled
+- Settings - Advanced - PCIe/PCI Sub-System Settings - Re-Size BAR Support- Enabled
+- Settings - Advanced - USB Configuration - XHCI Hand-off - Enabled
+- Settings - Advanced - USB Configuration - Legacy USB Support - Auto
+- OC - Extreme Memory Profile (Xmp) - Enabled
+- OC - Cpu Features - Turn off VT-d Tech, CFG Lock, Turn on Intel Virtualization Tech
+- BETA - D.T.M - Enabled
+- BETA - SR-IOV Support - Enabled
+
+Wake from Keyboard Optional:
+- Setting - Advanced - Power Management Setup - ErP Ready - Enable
+- Setting - Advanced - Power Management Setup - USB Standby Power at S4/S5 - Enable
+- Setting - Advanced - Resume By USB Device - Enable
 
 Work:
 - QE/CI of Gigabyte RX 6900 XT (XTXH)
@@ -45,7 +56,6 @@ Work:
 - All USB Ports
 - RX 6600 XT on macOS: Zero RPM with SoftPowerPlayTable 
 - Etc
-
 
 ## Credits
 
