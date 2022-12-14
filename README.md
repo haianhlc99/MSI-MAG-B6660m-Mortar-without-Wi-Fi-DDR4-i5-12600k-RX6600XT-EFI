@@ -14,7 +14,8 @@ MSI-MAG-B6660m Mortar (no-Wi-Fi)-DDR4-i5 12600k-RX6600XT-EFI
 | macOS | macOS Ventura 13.1 |
 | SMbios | MacPro 7,1 |
 
-
+You need to re-select SMBios in Opencore Configurations (MacPro 7,1) to generate your Serial and system UUID...
+@https://github.com/haianhlc99/-MSI-MAG-B6660m-Mortar-no-Wi-Fi--DDR4-i5-12600k-RX6600XT-EFI/blob/main/Screenshot%202022-12-14%20at%203.26.56%20PM.png
 
 ## BIOS configurations
 
