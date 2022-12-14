@@ -22,6 +22,8 @@ You need to re-select SMBios in Opencore Configurations (MacPro 7,1) to generate
 
 ## BIOS configurations
 
+This guide is applicable to B660M mortar motherboard, the motherboard BIOS needs the following settings, please update the bios to the latest version 7D42v17 and above
+
 - Oc->xmp-enable
 - Oc-> Cpu features ->  turn off VT-d
 - setting-boot- turn off msi fast boot, fastboot
