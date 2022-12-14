@@ -32,9 +32,22 @@ You need to re-select SMBios in Opencore Configurations (MacPro 7,1) to generate
 - tpm off - advanced - security - trusted computing
 - Setting/advanced/ Intergrated Graphics configuration/Graphic adapter to PEG, IGD Multi monitor-Disable (This makes sleep does not work)
 
+Work:
+- QE/CI of Gigabyte RX 6900 XT (XTXH)
+- Restart, Sleep and Shutdown
+- CPU Power Management
+- Ethernet
+- Rear and front Jack Audio
+- HDMI/DP
+- HDMI/DP Audio
+- All USB Ports
+- Etc
+- RX 6600 XT on macOS: Zero RPM with SoftPowerPlayTable 
+
 ## Credits
 
-https://github.com/yzchan/MSI-MAG-B660M-MORTAR-DDR4-12600K-EFI
+- https://github.com/yzchan/MSI-MAG-B660M-MORTAR-DDR4-12600K-EFI
+- https://www.tonymacx86.com/threads/rx-6600-xt-on-macos-zero-rpm-with-softpowerplaytable.319638/?fbclid=IwAR2ixTPROPm5iHmusTycbSEII7p9rQ5SwhSd6rbc2owSvibzfPEpla5hYeo
 
 ## Links
 
