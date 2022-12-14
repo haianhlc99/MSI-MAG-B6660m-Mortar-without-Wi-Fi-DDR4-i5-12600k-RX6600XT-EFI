@@ -41,9 +41,9 @@ This guide is applicable to B660M mortar motherboard, the motherboard BIOS needs
 - BETA - SR-IOV Support - Enabled
 
 Wake from Keyboard Optional:
-- Setting - Advanced - Power Management Setup - ErP Ready - Enable
-- Setting - Advanced - Power Management Setup - USB Standby Power at S4/S5 - Enable
-- Setting - Advanced - Resume By USB Device - Enable
+- Setting - Advanced - Power Management Setup - ErP Ready - Enabled
+- Setting - Advanced - Power Management Setup - USB Standby Power at S4/S5 - Enabled
+- Setting - Advanced - Resume By USB Device - Enabled
 
 Work:
 - QE/CI of Gigabyte RX 6600 XT
