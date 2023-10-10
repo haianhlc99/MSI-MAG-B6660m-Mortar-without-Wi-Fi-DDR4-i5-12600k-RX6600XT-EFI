@@ -8,10 +8,10 @@ MSI-MAG-B6660m Mortar (no-Wi-Fi)-DDR4-i5 12600k-RX6600XT-EFI
 | Mainboard | [MSI MAG B660M MORTAR DDR4 wihtout Wi-Fi] |
 | VGA | [Gigabyte Radeon RX 6600XT Eagle] |
 | RAM | Corsair Vengeance RGB RS 32GB 3200MHz DDR4 (4x8GB) CMG16GX4M2E3200C16 |
-| Wireless card | BCM94360CD |
+| Wireless card | BCM94360CD | Update Oct 10: Fixed full-working in macOS Sonama
 | SSD | Samsung PM961 |
-| OC | 0.8.7 |
-| macOS | macOS Ventura 13.1 |
+| OC | 0.9.5 |
+| macOS | macOS Sonama |
 | SMbios | MacPro 7,1 |
 
 You need to re-select SMBios in Opencore Configurations (MacPro 7,1) to generate your Serial and system UUID...
