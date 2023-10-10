@@ -4,9 +4,9 @@ MSI-MAG-B6660m Mortar (no-Wi-Fi)-DDR4-i5 12600k-RX6600XT-EFI
 
 | Spec | Model |
 | --- | --- |
-| CPU | [Intel i5 12600K] |
-| Mainboard | [MSI MAG B660M MORTAR DDR4 wihtout Wi-Fi] |
-| VGA | [Gigabyte Radeon RX 6600XT Eagle] |
+| CPU | Intel i5 12600K |
+| Mainboard | MSI MAG B660M MORTAR DDR4 wihtout Wi-Fi |
+| VGA | Gigabyte Radeon RX 6600XT Eagle |
 | RAM | Corsair Vengeance RGB RS 32GB 3200MHz DDR4 (4x8GB) CMG16GX4M2E3200C16 |
 | Wireless card | BCM94360CD (Update Oct 10: Fixed full-working in macOS Sonama) | 
 | SSD | Samsung PM961 & SN750 & Samsung 860 Evo |
@@ -50,6 +50,7 @@ Work:
 - Restart, Sleep and Shutdown
 - CPU Power Management
 - Ethernet
+- Wi-Fi, Bluetooth, Airdrops, Handoff in macOS Sonama
 - Rear and front Jack Audio
 - HDMI/DP
 - HDMI/DP Audio
