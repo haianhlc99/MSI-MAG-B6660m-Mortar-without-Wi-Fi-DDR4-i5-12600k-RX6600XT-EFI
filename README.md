@@ -9,7 +9,7 @@ MSI-MAG-B6660m Mortar (no-Wi-Fi)-DDR4-i5 12600k-RX6600XT-EFI
 | VGA | [Gigabyte Radeon RX 6600XT Eagle] |
 | RAM | Corsair Vengeance RGB RS 32GB 3200MHz DDR4 (4x8GB) CMG16GX4M2E3200C16 |
 | Wireless card | BCM94360CD (Update Oct 10: Fixed full-working in macOS Sonama) | 
-| SSD | Samsung PM961 |
+| SSD | Samsung PM961 & SN750 & Samsung 860 Evo |
 | OC | 0.9.5 |
 | macOS | macOS Sonama |
 | SMbios | MacPro 7,1 |
